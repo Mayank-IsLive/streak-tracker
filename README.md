@@ -30,7 +30,7 @@ Built using **HTML**, **CSS**, and **Vanilla JavaScript**, the application store
 
 ## 📸 Preview
 
-*Add a screenshot here after publishing.*
+![100 Day Streak Tracker](preview.png)
 
 ---
 
